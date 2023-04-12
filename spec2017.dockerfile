@@ -3,7 +3,6 @@ FROM ubuntu:18.04
 
 # Dockerfile for gpgpusim-3.2.2 build
 
-MAINTAINER Gunjae Koo <gunjae.koo@gmail.com>
 LABEL description="SPEC2017 benchmark suite on Ubuntu 18.04"
 
 # --------------------------------------
